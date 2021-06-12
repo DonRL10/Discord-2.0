@@ -1,2 +1,2 @@
-# Discord-2.0
+# The TRI POD
 aim is to mud discord
